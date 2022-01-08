@@ -1,4 +1,4 @@
-# QuanLyNoiThat
+# Hệ thống quản lý đồ dùng nội thất
 
 ## Tiểu luận môn học
 ###### ***Lập trình ứng dụng cho các thiết bị di động - Nhóm 1***
